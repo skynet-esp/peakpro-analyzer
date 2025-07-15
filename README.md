@@ -48,5 +48,7 @@ This project is licensed under the MIT License. See the LICENSE file for full de
 
 This software will be described in an upcoming scientific publication.  
 If you use PeakPro Analyzer in your work, please cite this repository and its DOI:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15924758.svg)](https://doi.org/10.5281/zenodo.15924758)
+
 
 **Coming soon via Zenodo**
