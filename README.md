@@ -51,4 +51,3 @@ If you use PeakPro Analyzer in your work, please cite this repository and its DO
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15924758.svg)](https://doi.org/10.5281/zenodo.15924758)
 
 
-**Coming soon via Zenodo**
